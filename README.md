@@ -3,7 +3,7 @@
 
 • I’m an aspiring Data Analyst focused on building practical skills in SQL, data analysis, and data engineering fundamentals.
 ---
-I’m currently building hands-on projects using PostgreSQL to strengthen my understanding of:
+[I’m currently building hands-on projects using PostgreSQL to strengthen my understanding of:]
 
 - Data cleaning and transformation
 - SQL-based analytics and reporting
@@ -11,7 +11,7 @@ I’m currently building hands-on projects using PostgreSQL to strengthen my und
 - Relational database design
 - Business-focused data insights
 
-## • What I’m currently working on
+## [What I’m currently working on]
 
 I’m developing a portfolio of SQL and data projects that simulate real-world business problems such as:
 
@@ -21,7 +21,7 @@ I’m developing a portfolio of SQL and data projects that simulate real-world b
 
 These projects are designed to reflect how data is used in real business environments for decision-making and reporting.
 
-## • Technical Focus
+## [Technical Focus]
 
 - SQL (PostgreSQL)
 - Data Analysis & Reporting
@@ -29,13 +29,13 @@ These projects are designed to reflect how data is used in real business environ
 - ETL Concepts & Workflow Design
 - Business Intelligence Fundamentals
 
-## • Featured Projects
+## [Featured Projects]
 
 - Insurance Claims Risk Analytics (SQL-based insights)
 - Retail Sales ETL Pipeline (end-to-end data workflow)
 - SQL Data Analytics Engineering Fundamentals
 
-## • Career Direction
+## [Career Direction]
 
 I am focused on building a strong foundation in data analytics and progressing toward roles in:
 
@@ -43,7 +43,7 @@ I am focused on building a strong foundation in data analytics and progressing t
 - Business Intelligence (BI)
 - Analytics Engineering (entry-level)
 
-## • Connect
+## [Connect]
 
 I’m always open to connecting with data professionals, learning from industry experience, and improving my skills through real-world feedback.
 
