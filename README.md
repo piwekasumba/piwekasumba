@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<# Hi there 👋
 
 • I’m an aspiring Data Analyst focused on building practical skills in SQL, data analysis, and data engineering fundamentals.
 ---
