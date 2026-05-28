@@ -1,49 +1,62 @@
-## Hi there 👋
+# Hi there 👋
 
+I’m an aspiring Data Analyst focused on building practical SQL skills through real-world style data projects using PostgreSQL.
 
-• I’m an aspiring Data Analyst focused on building practical skills in SQL, data analysis, and data engineering fundamentals.
+I’m currently learning how to work with data in a structured way by building projects that focus on:
+
+- Data cleaning and transformation using SQL
+- Writing analytical queries for business reporting
+- Understanding ETL-style data workflows
+- Working with relational databases
+- Turning raw data into simple business insights
+
 ---
-[I’m currently building hands-on projects using PostgreSQL to strengthen my understanding of:]
 
-- Data cleaning and transformation
-- SQL-based analytics and reporting
-- ETL pipeline concepts
-- Relational database design
-- Business-focused data insights
+## • What I’m currently working on
 
-## [What I’m currently working on]
+I’m building a small but focused portfolio of SQL projects that simulate real business scenarios.
 
-I’m developing a portfolio of SQL and data projects that simulate real-world business problems such as:
+These include:
 
-- Insurance risk analysis
-- Retail sales performance and customer insights
-- ETL pipeline design for structured reporting systems
+- Insurance claims risk analysis (understanding claim patterns and risk trends)
+- Retail sales analysis (customer and product performance insights)
+- SQL fundamentals projects (joins, aggregations, and reporting queries)
 
-These projects are designed to reflect how data is used in real business environments for decision-making and reporting.
+Each project is designed to reflect how SQL is used in real reporting and analytics environments.
 
-## [Technical Focus]
+---
+
+## • Current Technical Focus
 
 - SQL (PostgreSQL)
-- Data Analysis & Reporting
-- Data Modeling (Relational Databases)
-- ETL Concepts & Workflow Design
-- Business Intelligence Fundamentals
+- Data Analysis using SQL
+- Data Cleaning & Transformation
+- Relational Database Concepts
+- Basic ETL Thinking (Extract → Transform → Load logic)
+- Business Reporting Queries
 
-## [Featured Projects]
+*(Currently focused only on SQL fundamentals — building step by step.)*
 
-- Insurance Claims Risk Analytics (SQL-based insights)
-- Retail Sales ETL Pipeline (end-to-end data workflow)
-- SQL Data Analytics Engineering Fundamentals
+---
 
-## [Career Direction]
+## • Featured Projects
 
-I am focused on building a strong foundation in data analytics and progressing toward roles in:
+- Insurance Claims Risk Analytics | SQL-based insights
+- Retail Sales ETL Pipeline | Data transformation & reporting logic
+- SQL Data Analytics Engineering Fundamentals | Core SQL practice
+
+---
+
+## • Career Direction
+
+I am focused on building a strong foundation in SQL and progressing toward entry-level roles in:
 
 - Data Analytics
-- Business Intelligence (BI)
-- Analytics Engineering (entry-level)
+- Business Intelligence (BI support roles)
+- Analytics Engineering (future path)
 
-## [Connect]
+---
 
-I’m always open to connecting with data professionals, learning from industry experience, and improving my skills through real-world feedback.
+## • Connect
 
+I’m open to connecting with data professionals, learning from real-world feedback, and improving my SQL and analytics skills through practical experience.
