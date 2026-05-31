@@ -8,15 +8,15 @@ My goal is to build a strong foundation in data analysis by working with real-wo
 
 I am currently developing a portfolio centered on three key areas of analytics:
 
-## Insurance Claims Risk Analytics
+## - Insurance Claims Risk Analytics
 
 Analyzing claims data to identify risk patterns, claim trends, and operational insights that can support business decision-making.
 
-## Retail Sales Analytics & ETL
+## - Retail Sales Analytics & ETL
 
 Building SQL-based data transformation workflows and reporting solutions to understand sales performance, customer behavior, and product trends.
 
-## SQL Data Analytics Fundamentals
+## - SQL Data Analytics Fundamentals
 
 Strengthening core SQL skills through practical exercises covering joins, aggregations, filtering, reporting, and analytical problem-solving.
 ---
