@@ -1,9 +1,11 @@
 Hi, I'm Piwe 👋
 ---
+
 ### Aspiring Data Analyst focused on developing practical SQL and data analytics skills through hands-on business projects using PostgreSQL.
 
 My goal is to build a strong foundation in data analysis by working with real-world business scenarios and turning raw data into meaningful insights that support better decision-making.
 ---
+
 ### What I'm Building
 
 I am currently developing a portfolio centered on three key areas of analytics:
@@ -19,7 +21,9 @@ Building SQL-based data transformation workflows and reporting solutions to unde
 ## - SQL Data Analytics Fundamentals
 
 Strengthening core SQL skills through practical exercises covering joins, aggregations, filtering, reporting, and analytical problem-solving.
+
 ---
+
 ## Technical Focus:
 
 • SQL (PostgreSQL)
@@ -30,7 +34,8 @@ Strengthening core SQL skills through practical exercises covering joins, aggreg
 • Basic ETL Workflows
 • Business-Oriented Data Analysis
 ---
- ### Featured Projects
+
+### Featured Projects
  
 ## Insurance Claims Risk Analytics
 
@@ -44,6 +49,7 @@ Data transformation and reporting project demonstrating SQL-based ETL thinking a
 
 Collection of practical SQL exercises focused on developing strong analytical foundations.
 ---
+
 ### What I'm Learning
 
 • Writing efficient SQL queries
@@ -52,6 +58,7 @@ Collection of practical SQL exercises focused on developing strong analytical fo
 • Business KPI analysis
 • Structured analytical thinking
 ---
+
 ### Career Direction
 
 Actively preparing for entry-level opportunities in:
