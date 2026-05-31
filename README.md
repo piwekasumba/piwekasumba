@@ -51,7 +51,7 @@ Collection of practical SQL exercises focused on developing strong analytical fo
 ---
 
 ### What I'm Learning
----
+
 • Writing efficient SQL queries
 • Building reporting-focused datasets
 • Data quality and transformation techniques
