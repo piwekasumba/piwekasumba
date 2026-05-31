@@ -37,21 +37,21 @@ Strengthening core SQL skills through practical exercises covering joins, aggreg
 
 ### Featured Projects
  
-## Insurance Claims Risk Analytics
+## - Insurance Claims Risk Analytics
 
 Business-focused SQL analysis exploring claim behavior, risk indicators, and reporting insights.
 
-## Retail Sales Analytics ETL Pipeline
+## - Retail Sales Analytics ETL Pipeline
 
 Data transformation and reporting project demonstrating SQL-based ETL thinking and sales analysis.
 
-## SQL Data Analytics Fundamentals
+## - SQL Data Analytics Fundamentals
 
 Collection of practical SQL exercises focused on developing strong analytical foundations.
 ---
 
 ### What I'm Learning
-
+---
 • Writing efficient SQL queries
 • Building reporting-focused datasets
 • Data quality and transformation techniques
@@ -68,6 +68,7 @@ Actively preparing for entry-level opportunities in:
 • Business Intelligence Support
 • Operations & Reporting Environments
 ---
+
 ### Connect
 
 I enjoy learning from data professionals, sharing progress, and continuously improving through practical project work.
