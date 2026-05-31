@@ -1,6 +1,6 @@
 Hi, I'm Piwe 👋
 ---
-Aspiring Data Analyst focused on developing practical SQL and data analytics skills through hands-on business projects using PostgreSQL.
+### Aspiring Data Analyst focused on developing practical SQL and data analytics skills through hands-on business projects using PostgreSQL.
 
 My goal is to build a strong foundation in data analysis by working with real-world business scenarios and turning raw data into meaningful insights that support better decision-making.
 ---
