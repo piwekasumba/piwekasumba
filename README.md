@@ -45,19 +45,16 @@ I build SQL-based projects that focus on:
 
 ## Featured Projects
 
-### 1. End-to-End SQL Data Engineering Project (PostgreSQL)
 
-Designed a relational database system with multiple connected tables and performed SQL analysis across datasets to simulate real-world business reporting.
-
-### 2. Insurance Claims Risk Analytics Project
+### 1. Insurance Claims Risk Analytics Project
 
 Analyzed insurance claims data to identify risk patterns, claim trends, and business insights using SQL.
 
-### 3. Retail Sales ETL Data Pipeline Project
+### 2. Retail Sales ETL Data Pipeline Project
 
 Simulated an ETL pipeline using SQL to clean, transform, and structure retail sales data for analytics.
 
-### 4. SQL Data Analytics Fundamentals Project
+### 3. SQL Data Analytics Fundamentals Project
 
 Focused on foundational SQL skills including querying, aggregation, and basic analytics workflows.
 
