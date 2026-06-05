@@ -1,77 +1,90 @@
 Hi, I'm Piwe 👋
 ---
 
-### Aspiring Data Analyst focused on developing practical SQL and data analytics skills through hands-on business projects using PostgreSQL.
+## Aspiring Data Analyst | SQL Focused | Entry-Level Data Professional (South Africa)
 
-My goal is to build a strong foundation in data analysis by working with real-world business scenarios and turning raw data into meaningful insights that support better decision-making.
----
+I am a self-taught data analyst focused on building strong foundations in SQL, relational databases, and data analytics workflows.
 
-### What I'm Building
-
-I am currently developing a portfolio centered on three key areas of analytics:
-
-## - Insurance Claims Risk Analytics
-
-Analyzing claims data to identify risk patterns, claim trends, and operational insights that can support business decision-making.
-
-## - Retail Sales Analytics & ETL
-
-Building SQL-based data transformation workflows and reporting solutions to understand sales performance, customer behavior, and product trends.
-
-## - SQL Data Analytics Fundamentals
-
-Strengthening core SQL skills through practical exercises covering joins, aggregations, filtering, reporting, and analytical problem-solving.
+My goal is to enter the South African data industry in an entry-level Data Analyst or Reporting Analyst role where I can apply SQL to solve real business problems.
 
 ---
 
-## Technical Focus:
+## What I Do
 
-• SQL (PostgreSQL)
-• Data Cleaning & Transformation
-• Analytical Querying
-• Reporting & KPI Analysis
-• Relational Database Concepts
-• Basic ETL Workflows
-• Business-Oriented Data Analysis
+I build SQL-based projects that focus on:
+
+- Relational database design
+- Data cleaning and transformation
+- Analytical querying using PostgreSQL
+- Business reporting and KPI analysis
+- ETL-style data workflows
+
 ---
 
-### Featured Projects
- 
-## - Insurance Claims Risk Analytics
+## Core Skills
 
-Business-focused SQL analysis exploring claim behavior, risk indicators, and reporting insights.
+### SQL & Databases
 
-## - Retail Sales Analytics ETL Pipeline
+- PostgreSQL
+- MySQL (fundamentals)
+- JOIN operations (INNER, LEFT)
+- Aggregations (SUM, COUNT, AVG)
+- GROUP BY & filtering
+- CASE statements
+- Relational database design
 
-Data transformation and reporting project demonstrating SQL-based ETL thinking and sales analysis.
+### Data Concepts
 
-## - SQL Data Analytics Fundamentals
+- Data modeling fundamentals
+- Data integrity & normalization
+- ETL basics (Extract, Transform, Load)
+- Structured query development
+- Analytical thinking
 
-Collection of practical SQL exercises focused on developing strong analytical foundations.
 ---
 
-### What I'm Learning
+## Featured Projects
 
-• Writing efficient SQL queries
-• Building reporting-focused datasets
-• Data quality and transformation techniques
-• Business KPI analysis
-• Structured analytical thinking
+### 1. End-to-End SQL Data Engineering Project (PostgreSQL)
+
+Designed a relational database system with multiple connected tables and performed SQL analysis across datasets to simulate real-world business reporting.
+
+### 2. Insurance Claims Risk Analytics Project
+
+Analyzed insurance claims data to identify risk patterns, claim trends, and business insights using SQL.
+
+### 3. Retail Sales ETL Data Pipeline Project
+
+Simulated an ETL pipeline using SQL to clean, transform, and structure retail sales data for analytics.
+
+### 4. SQL Data Analytics Fundamentals Project
+
+Focused on foundational SQL skills including querying, aggregation, and basic analytics workflows.
+
 ---
 
-### Career Direction
+##  What I Focus On
 
-Actively preparing for entry-level opportunities in:
+- Writing clean and structured SQL queries
+- Turning raw data into business insights
+- Understanding how data supports decision-making
+- Building real-world analytics-style projects
+- Improving consistency and analytical thinking
 
-• Data Analytics
-• Reporting Analyst Roles
-• Business Intelligence Support
-• Operations & Reporting Environments
 ---
 
-### Connect
+##  Career Goal
 
-I enjoy learning from data professionals, sharing progress, and continuously improving through practical project work.
+To secure an entry-level Data Analyst / Reporting Analyst role in South Africa where I can:
 
-Thank you for visiting my profile.
+- Work with SQL databases
+- Support business reporting
+- Improve data quality and insights
+- Grow into advanced analytics and BI roles
+
+---
+
+##  Contact
+
+Open to entry-level opportunities, internships, and collaboration in data analytics.
 
