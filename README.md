@@ -1,89 +1,48 @@
-# Hi, I'm Piwe 👋
+### Hi, I'm Piwe 👋
 
-## Junior Data Analyst (SQL Focus) | South Africa | Entry-Level Reporting Analyst
+## Junior Data Analyst (SQL Focus) | South Africa
 
-I am focused on building a career in data analytics with a strong emphasis on SQL, relational databases, and structured reporting logic.
+I am an aspiring Data Analyst focused on using SQL to transform raw data into meaningful business insights.
 
-My goal is to join a South African organisation as a Junior Data Analyst or Reporting Analyst, where I can support business reporting, improve data visibility, and contribute to decision-making through SQL-based analysis.
+Through self-directed projects, I have analyzed insurance claims data, built retail sales ETL workflows, and developed reporting-focused SQL solutions that strengthen my understanding of data analysis, KPI reporting, and business decision support.
 
+I am currently preparing for entry-level Data Analyst and Reporting Analyst opportunities where I can contribute to reporting, data quality, and SQL-driven analysis while continuing to grow my analytical skills.
 ---
 
 ## How I Work With Data
 
-I use SQL to transform raw data into structured reporting outputs that support business understanding.
+I use SQL to transform raw datasets into structured information that supports reporting and business understanding.
 
-My focus is on:
+## My approach focuses on:
 
-- Translating raw datasets into reporting-ready structures
-- Identifying patterns through SQL-based analysis
-- Supporting KPI tracking and operational reporting
-- Working with relational data to ensure accuracy and consistency
-- Building analytical thinking through real-world style projects
-
----
-
-## Core Technical Skills
-
-### SQL & Databases
-
-- PostgreSQL (primary)
-- MySQL (fundamentals)
-- JOIN operations (INNER, LEFT)
-- Aggregations (SUM, COUNT, AVG)
-- GROUP BY and filtering logic
-- CASE statements for conditional logic
-- Query structuring for reporting outputs
-
-### Data Concepts
-
-- Relational database understanding
-- Data modelling fundamentals
-- Data cleaning and transformation logic
-- ETL-style thinking (Extract, Transform, Load)
-- Analytical reasoning using structured queries
-
----
-
-## Featured Projects
-
-### Insurance Claims Risk Analytics (SQL Reporting Project)
-
-- Structured insurance claims data to identify risk patterns, claim distributions, and reporting insights that support business decision-making.
-
-### Retail Sales ETL Pipeline (SQL Project)
-
-- Simulated a data pipeline using SQL to transform raw retail transactions into structured reporting datasets for performance analysis.
-
-### SQL Data Analytics Fundamentals Project
-
-- Focused on core SQL capabilities including joins, aggregations, and reporting logic used in entry-level analytics environments.
-
+- Cleaning and transforming data into reporting-ready formats
+- Using SQL queries to uncover trends and patterns
+- Supporting KPI tracking through structured analysis
+- Working with relational datasets to improve consistency and accuracy
+- Applying analytical thinking through practical business-focused projects
 ---
 
 ## What I Focus On
 
 - Writing structured and reliable SQL queries
-- Turning raw data into reporting insights
+- Turning raw data into actionable reporting outputs
 - Understanding how data supports business decisions
 - Building consistency in analytical thinking
-- Developing reporting logic used in real-world environments
-
+- Strengthening reporting and data analysis skills through project work
 ---
 
 ## Career Direction
 
-I am preparing for entry-level Data Analyst / Reporting Analyst roles in South Africa.
+I am preparing for Junior Data Analyst and Reporting Analyst opportunities in South Africa.
 
-In a junior reporting environment, I aim to:
+## My current development focus includes:
 
-- Support SQL-based reporting systems
-- Assist with data validation and consistency checks
-- Help structure datasets for business reporting
-- Contribute to operational and performance insights
-- Grow into advanced analytics and BI roles over time
+- SQL querying and reporting
+- Data cleaning and transformation
+- KPI development and tracking
+- Business-focused analysis
+- Structured problem solving using real-world datasets
 
+Over time, I aim to build deeper experience in reporting, analytics, and data-driven decision support.
 ---
 
-## Availability
-
-Open to entry-level opportunities, internships, and graduate programs in data analytics and reporting roles in South Africa.
