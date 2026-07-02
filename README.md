@@ -32,6 +32,6 @@ I continue to strengthen my skills through hands-on projects in:
 
 ## Career Goal
 
-• I am looking for an opportunity to start my career as a Junior Data Analyst or Reporting Analyst in South Africa.
+I am looking for an opportunity to start my career as a Junior Data Analyst or Reporting Analyst in South Africa.
 
-  My goal is to keep learning, work with real business data, and help teams make better decisions through accurate reporting and SQL analysis.
+My goal is to keep learning, work with real business data, and help teams make better decisions through accurate reporting and SQL analysis.
