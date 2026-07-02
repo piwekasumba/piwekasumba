@@ -1,48 +1,37 @@
-### Hi, I'm Piwe 👋
+# Hi, I'm Piwe 👋
 
-## Junior Data Analyst (SQL Focus) | South Africa
+**Junior Data Analyst (SQL Focus) | South Africa**
 
-I am an aspiring Data Analyst focused on using SQL to transform raw data into meaningful business insights.
+I am building my skills in data analytics by working on practical SQL projects that solve real business problems.
 
-Through self-directed projects, I have analyzed insurance claims data, built retail sales ETL workflows, and developed reporting-focused SQL solutions that strengthen my understanding of data analysis, KPI reporting, and business decision support.
+So far, I have analyzed insurance claims data, built a retail sales ETL workflow, and completed reporting projects using PostgreSQL. These projects have helped me improve my SQL, data cleaning, reporting, and analytical thinking while working with real-world datasets.
 
-I am currently preparing for entry-level Data Analyst and Reporting Analyst opportunities where I can contribute to reporting, data quality, and SQL-driven analysis while continuing to grow my analytical skills.
----
+I am currently preparing for entry-level Data Analyst and Reporting Analyst opportunities where I can contribute to SQL reporting, data quality, and business analysis while continuing to learn and grow.
 
 ## How I Work With Data
 
-I use SQL to transform raw datasets into structured information that supports reporting and business understanding.
+I enjoy taking raw data and turning it into information that is easier to understand and use.
 
-## My approach focuses on:
+My work focuses on:
 
-- Cleaning and transforming data into reporting-ready formats
-- Using SQL queries to uncover trends and patterns
-- Supporting KPI tracking through structured analysis
-- Working with relational datasets to improve consistency and accuracy
-- Applying analytical thinking through practical business-focused projects
----
+- Cleaning and transforming data
+- Writing SQL queries to answer business questions
+- Creating reporting-ready datasets
+- Finding trends and patterns in data
+- Improving data quality and consistency
 
-## What I Focus On
+## What I'm Building
 
-- Writing structured and reliable SQL queries
-- Turning raw data into actionable reporting outputs
-- Understanding how data supports business decisions
-- Building consistency in analytical thinking
-- Strengthening reporting and data analysis skills through project work
----
+I continue to strengthen my skills through hands-on projects in:
 
-## Career Direction
-
-I am preparing for Junior Data Analyst and Reporting Analyst opportunities in South Africa.
-
-## My current development focus includes:
-
-- SQL querying and reporting
+- PostgreSQL
+- SQL reporting
 - Data cleaning and transformation
-- KPI development and tracking
-- Business-focused analysis
-- Structured problem solving using real-world datasets
+- KPI reporting
+- Business-focused data analysis
 
-Over time, I aim to build deeper experience in reporting, analytics, and data-driven decision support.
----
+## Career Goal
 
+• I am looking for an opportunity to start my career as a Junior Data Analyst or Reporting Analyst in South Africa.
+
+  My goal is to keep learning, work with real business data, and help teams make better decisions through accurate reporting and SQL analysis.
