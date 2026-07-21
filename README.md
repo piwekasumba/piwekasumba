@@ -1,37 +1,45 @@
 # Hi, I'm Piwe 👋
 
-**Junior Data Analyst (SQL Focus) | South Africa**
+**Aspiring Reporting Analyst | SQL (PostgreSQL) | Business Reporting | South Africa**
 
-I am building my skills in data analytics by working on practical SQL projects that solve real business problems.
+I am building a portfolio of SQL projects that demonstrate how relational data can be transformed into reporting-ready information that supports business decisions.
 
-So far, I have analyzed insurance claims data, built a retail sales ETL workflow, and completed reporting projects using PostgreSQL. These projects have helped me improve my SQL, data cleaning, reporting, and analytical thinking while working with real-world datasets.
+My work focuses on applying PostgreSQL to realistic business scenarios, including insurance claims analysis, retail sales reporting, and SQL-based ETL workflows. Through these projects, I practise the analytical thinking, reporting techniques, and data management skills expected of an entry-level Reporting Analyst.
 
-I am currently preparing for entry-level Data Analyst and Reporting Analyst opportunities where I can contribute to SQL reporting, data quality, and business analysis while continuing to learn and grow.
+## What I Work On
 
-## How I Work With Data
+- Business reporting using SQL
+- PostgreSQL database development
+- Data cleaning and transformation
+- Relational database design
+- KPI reporting
+- Trend analysis
+- Reporting-ready datasets
+- Business-focused SQL analysis
 
-I enjoy taking raw data and turning it into information that is easier to understand and use.
+## Featured Projects
 
-My work focuses on:
+- **Insurance Claims Risk Analytics SQL Insights** – Analysing insurance claims, monitoring risk, and producing reporting-ready KPI outputs.
+- **Retail Sales Analytics ETL Data Pipeline** – Building a SQL ETL workflow to clean, transform, and prepare retail sales data for reporting.
+- **SQL Data Analytics Fundamentals For Business Reporting** – Applying SQL to answer business questions and create reporting-ready datasets using relational databases.
 
-- Cleaning and transforming data
-- Writing SQL queries to answer business questions
-- Creating reporting-ready datasets
-- Finding trends and patterns in data
-- Improving data quality and consistency
+## Current Goal
 
-## What I'm Building
+I am preparing for an entry-level **Reporting Analyst** or **Data Analyst** opportunity where I can contribute to SQL reporting, data quality, KPI reporting, and business analysis while continuing to develop my analytical skills.
 
-I continue to strengthen my skills through hands-on projects in:
+---
+
+**Skills**
 
 - PostgreSQL
-- SQL reporting
-- Data cleaning and transformation
-- KPI reporting
-- Business-focused data analysis
-
-## Career Goal
-
-I am looking for an opportunity to start my career as a Junior Data Analyst or Reporting Analyst in South Africa.
-
-My goal is to keep learning, work with real business data, and help teams make better decisions through accurate reporting and SQL analysis.
+- SQL
+- Data Cleaning
+- Data Transformation
+- Relational Databases
+- SQL Joins
+- Aggregate Functions
+- Common Table Expressions (CTEs)
+- KPI Reporting
+- Business Reporting
+- Trend Analysis
+- Data Analysis
