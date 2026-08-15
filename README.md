@@ -74,7 +74,7 @@ SQL analytics and database fundamentals project demonstrating querying, joins, a
 
 ## Current Goal
 
-I am seeking an entry-level **Junior Reporting Analyst** or **Junior Data Analyst** opportunity in South Africa, with a focus on Johannesburg,Gauteng.
+I am seeking an entry-level **Junior Reporting Analyst** or **Junior Data Analyst** opportunity in South Africa, with a focus on Johannesburg, Gauteng.
 
 I aim to contribute to SQL reporting, data quality, KPI reporting, business analysis, and decision support while continuing to develop my analytical skills.
 
